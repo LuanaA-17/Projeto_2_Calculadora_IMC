@@ -3,6 +3,22 @@
 Uma aplicação web simples desenvolvida com **Python** e **Streamlit** para calcular o **Índice de Massa Corporal (IMC)** de um usuário, exibindo a classificação junto com uma mensagem personalizada. Ideal para praticar **entrada e saída de dados**, **operações aritméticas**, **condicionais** e conceitos de **frontend lowcode** com Streamlit.
 
 ---
+## 🧩 **Situação-Problema**
+
+Você foi contratado por uma **clínica de nutrição** para desenvolver uma ferramenta simples e acessível que ajude pacientes a calcularem seu **IMC (Índice de Massa Corporal)** diretamente pelo navegador.  
+
+A clínica precisa que o sistema:
+
+- Solicite **peso** e **altura** dos usuários;
+- Calcule automaticamente o IMC;
+- Exiba a **classificação** (como "peso normal", "sobrepeso", etc.);
+- Mostre uma **mensagem personalizada** com base no resultado.
+
+O objetivo é tornar o processo de triagem mais rápido e educativo, permitindo que os próprios pacientes compreendam sua situação antes da consulta.
+
+Como desenvolvedor(a), você decidiu utilizar **Python** e a biblioteca **Streamlit** para construir uma interface web leve, funcional e de fácil manutenção.
+
+---
 
 ## 🎯 **Objetivo Educacional**
 - Trabalhar com **entrada de dados** através de formulários simples.
