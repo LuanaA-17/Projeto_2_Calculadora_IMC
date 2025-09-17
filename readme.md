@@ -91,12 +91,14 @@ Pronto! Agora você pode inserir o peso e altura para calcular o IMC. 🎉
 
 ---
 ## **📂 Estrutura do projeto**
+```
 projeto_imc/
 ├─ app.py                # Arquivo principal do Streamlit
 ├─ logo.png              # Logo do projeto
 ├─ requirements.txt      # Dependências do projeto
 ├─ README.md             # Este arquivo
 
+```
 ---
 ## **📝 Licença**
 
